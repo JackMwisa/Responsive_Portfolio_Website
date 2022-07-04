@@ -1,0 +1,109 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  position: relative;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.5rem;
+  margin: 0;
+  background: #f7f7f9;
+}
+
+/* header section */
+header {
+  display: flex;
+  width: 100%;
+  background-color: white;
+  position: fixed;
+  justify-content: space-between;
+  align-items: center;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  height: 3rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+main {
+  margin-top: 3rem;
+}
+
+header .my-logo-container {
+  margin-left: 1.5rem;
+}
+
+header nav {
+  cursor: pointer;
+  margin-right: 2.25rem;
+}
+
+header #logo,
+header .menu {
+  display: block;
+  width: 100%;
+}
+
+/* headline section */
+.headline {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 7.125rem 1.5rem;
+  background-image: url(../images/header-shapes-mobile.svg), url(../images/header-background-mobile.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top right;
+  border-bottom-left-radius: 90px;
+}
+
+/* h1 text */
+.header-h1-text {
+  align-items: center;
+  font-weight: bold;
+  font-size: 2.5rem;
+  line-height: 3.25rem;
+  color: #172b4d;
+  margin: 0.5rem 0;
+}
+
+/* paragraph text */
+.intro {
+  color: #344563;
+  margin: 0.5rem 0;
+}
+
+/* let's connect */
+.hitmeup {
+  font-size: 1.1rem;
+  font-weight: 500;
+  margin: 0.75rem 0;
+  color: #4b5399;
+}
+
+/* social media icons */
+.icons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 10.636rem;
+}
+
+.sm-icon {
+  display: block;
+  width: 100%;
+}
+
+ul,
+li {
+  list-style-type: none;
+}
