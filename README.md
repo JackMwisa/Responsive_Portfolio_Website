@@ -1,10 +1,11 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Portfolio
+# Portfolio Mobile Version
 
 > This is my personal portfolio to showcase my projects and achievements.
 
-![Screenshot](./Screenshot-1.png)
+![Screenshot](./Screenshot-3.png)
+![Screenshot](./Screenshot-2.png)
 
 
 ## Built With
