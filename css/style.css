@@ -110,11 +110,6 @@ li {
   width: 100%;
 }
 
-header nav {
-  cursor: pointer;
-  margin-right: 2.25rem;
-}
-
 header .my-logo,
 header .menu {
   display: block;
