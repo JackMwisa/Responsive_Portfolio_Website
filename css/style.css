@@ -60,11 +60,6 @@ li {
   margin: 0;
 }
 
-/* header section */
-header .my-logo-container {
-  margin-left: 1.5rem;
-}
-
 /* headline section */
 .headline {
   display: flex;
