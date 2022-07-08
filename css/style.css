@@ -110,12 +110,6 @@ li {
   width: 100%;
 }
 
-ul,
-li {
-  list-style-type: none;
-}
-
-
 header nav {
   cursor: pointer;
   margin-right: 2.25rem;
