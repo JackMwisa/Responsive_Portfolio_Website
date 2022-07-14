@@ -4,8 +4,7 @@
 
 > This is my personal portfolio to showcase my projects and achievements.
 
-![Screenshot](./Screenshot-3.png)
-![Screenshot](./Screenshot-2.png)
+
 ![Screenshot](./desktop.png)
 
 
